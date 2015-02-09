@@ -7,5 +7,7 @@ This file is implemented in python.
 
 
 Usage: go to the py file directory
+
 In Terminal input [python file_name.py figure_index search_strategy(bfs|dfs) goal]
+
 Then the result will be outputted.
