@@ -6,6 +6,6 @@ solution in the generated state space.
 This file is implemented in python.
 
 
-usage go to the py file directory
-In Terminal, input: python file_name.py figure_index search_strategy(bfs|dfs) goal, then the 
-result will be outputted.
+Usage: go to the py file directory
+In Terminal input [python file_name.py figure_index search_strategy(bfs|dfs) goal]
+Then the result will be outputted.
